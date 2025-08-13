@@ -23,7 +23,22 @@
 
 ### Решение 2
 
+#### Выбор пользователя на Master и копирование *.cnf
+![1.1.UserMaster](https://github.com/zlodey-paha/12-06/blob/main/12-06/1.1.%20User(Master).PNG)
+![1.2.UserMaster](https://github.com/zlodey-paha/12-06/blob/main/12-06/1.2.%20User(Master).PNG)
 
+#### Просмотр статуса Master
+![2.1.Replication](https://github.com/zlodey-paha/12-06/blob/main/12-06/2.1.%20ReplicationCNF(Master).PNG)
+![2.2.Replication](https://github.com/zlodey-paha/12-06/blob/main/12-06/2.2.%20ReplicationCNF(Master).PNG)
+
+#### Просмотр *.cnf на Slave
+![2.3.Replication](https://github.com/zlodey-paha/12-06/blob/main/12-06/2.3.%20ReplicationCNF(Slave).PNG)
+
+#### Статус на Slave
+![3.1.SlaveStatus](https://github.com/zlodey-paha/12-06/blob/main/12-06/3.1.%20Status(Slave).PNG)
+
+#### Master и Slave
+![3.1.Roles](https://github.com/zlodey-paha/12-06/blob/main/12-06/4.%20Roles.PNG)
 
 ---
 
